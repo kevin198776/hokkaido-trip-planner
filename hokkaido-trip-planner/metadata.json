@@ -1,0 +1,5 @@
+{
+  "name": "Hokkaido Trip Planner",
+  "description": "A comprehensive 7-day travel itinerary app for Hokkaido, starting and ending in Sapporo, featuring public transport routes and AI-powered attraction details.",
+  "requestFramePermissions": []
+}
